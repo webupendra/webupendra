@@ -1,7 +1,7 @@
 # 💫 Hii 👋 I'm Upendra Singh
 I'm Currently Working on WordPress and Shopify Developer. Experienced WordPress | Shopify | BuddyPress | UI/UX | Elementor.
 
-# Specialities
+## Specialities
 WordPress development<br>
 WordPress Gutenberg Block Development<br>
 Creating and customizing plugins<br>
