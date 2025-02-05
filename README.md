@@ -1,5 +1,8 @@
 # 💫 Hii 👋 I'm Upendra Singh
-About Me: I'm Currently Working on WordPress and Shopify Developer.<br>Experienced WordPress | Shopify | BuddyPress | UI/UX | Elementor.<br>Specialities<br>WordPress development<br>
+I'm Currently Working on WordPress and Shopify Developer. Experienced WordPress | Shopify | BuddyPress | UI/UX | Elementor.
+
+# Specialities
+WordPress development<br>
 WordPress Gutenberg Block Development<br>
 Creating and customizing plugins<br>
 WordPress configuration<br>
@@ -10,7 +13,8 @@ Shopify E-commerce Store Setup<br>
 Figma, PSD, Mockup Designs.<br>
 Learning Management System( LMS)<br>
 Creating and customizing themes and custom functionality<br>
-ACF and ACF Pro<br>
+ACF and ACF Pro<be>
+
 Website:- <a href="https://webupendra.wordpress.com/">https://webupendra.wordpress.com/</a><br>
 ThemeForest:- <a href="https://themeforest.net/user/creativbydesigns">Creative by Designs</a><br>
 Templatemonster:- <a href="https://www.templatemonster.com/authors/creativbydesigns/">Creative by Designs</a><br>
